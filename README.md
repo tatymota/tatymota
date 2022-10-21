@@ -1,7 +1,7 @@
 # Taty Mota
 
 # 💫 About Me:
-🔭 I’m a software developer under construction<br>🤝 I’m loving discorver the tech world <br>🌱 I’m currently learning something new<br>⚡ Fun fact
+🔭 I’m a software developer under construction<br>🤝 I’m loving discorver the tech world <br>🌱 I’m currently learning something new<br>
 
 
 ## 🌐 Socials:
